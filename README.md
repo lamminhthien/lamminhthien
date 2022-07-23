@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-10886
-Fork on GitHub
-2735
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Lâm Minh Thiện</h1>
 <h3 align="center">A fresher developer using Javascript technology like ReactJS, Nunjuck, NextJS.</h3>
 
